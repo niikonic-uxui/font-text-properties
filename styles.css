@@ -49,6 +49,10 @@ body{
 	/* Set the line height to 1.5 */
 	/* set the font size to 1.1rem	*/
 	/* set the font color to #222 (--dk-gray) */
+	font-family: "Arial", sans-serif;
+	line-height: 1.5;
+	font-size: 1.1rem;
+	color: var(--dk-gray);
 	margin: 0;
 	padding: 0;
 }
@@ -61,9 +65,13 @@ header{
 }
 
 h1, h2, h3{
+	
 	/* center align the text */
 	/* use a web font here (instructions on page) */
 	/* make the heading text all small caps style */
+	text-align: center;
+	font: "Seymour One", sans-serif;
+	font-variant: small-caps;
 }
 
 h2{
