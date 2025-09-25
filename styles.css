@@ -152,6 +152,7 @@ a:hover{
 
 dl, ol, main ul{
 	/* limit the width of these lists to 55 characters */
+	max-widtth: 55ch;
 	margin: 1rem auto;
 }
 
