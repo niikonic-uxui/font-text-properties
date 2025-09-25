@@ -108,6 +108,11 @@ nav a{
 	/* remove the underline */
 	/* make the font's size 1.2rem */
 	/* make the font bolder (600) */
+	color: var(--dk-gray);
+	text-align: center;
+	text-decoration: none;
+	font-size: 1.2rem;
+	font-weight: 600;
 }
 
 nav a:hover{
